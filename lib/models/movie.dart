@@ -33,6 +33,9 @@ class Movie {
     double voteAverage;
     int voteCount;
 
+
+    String? heroId;
+
     get fullPosterImg{
       //https://image.tmdb.org/t/p/w500/jvBEq1ncn0zxwfaBQTpDnoog8jb.jpg
       //https://i.stack.imgur.com/GNhxO.png
